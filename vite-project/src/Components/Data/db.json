@@ -1,0 +1,158 @@
+{
+    "EnrollmentData": [
+      {
+        "enrollmentNumber": "2023003",
+        "studentName": "Moxly Smith",
+        "courseName": "LLB",
+        "fees": 5999,
+        "enrollmentDate": "2023-09-04"
+      },
+      {
+        "enrollmentNumber": "2023001",
+        "studentName": "John Doe",
+        "courseName": "B.Tech",
+        "fees": 4999,
+        "enrollmentDate": "2023-09-06"
+      },
+      {
+        "enrollmentNumber": "2023002",
+        "studentName": "Jane Doe",
+        "courseName": "B.Tech",
+        "fees": 5599,
+        "enrollmentDate": "2023-09-05"
+      },
+      {
+        "enrollmentNumber": "2023003",
+        "studentName": "Moxly Smith",
+        "courseName": "LLB",
+        "fees": 5799,
+        "enrollmentDate": "2023-09-04"
+      },{
+        "enrollmentNumber": "2023001",
+        "studentName": "John Doe",
+        "courseName": "B.Tech",
+        "fees": 6999,
+        "enrollmentDate": "2023-09-06"
+      },
+      {
+        "enrollmentNumber": "2023002",
+        "studentName": "Jane Doe",
+        "courseName": "UPSC",
+        "fees": 6599,
+        "enrollmentDate": "2023-09-05"
+      },
+      {
+        "enrollmentNumber": "2023003",
+        "studentName": "Moxly Smith",
+        "courseName": "LLB",
+        "fees": 5299,
+        "enrollmentDate": "2023-09-04"
+      },{
+        "enrollmentNumber": "2023001",
+        "studentName": "John Doe",
+        "courseName": "B.Tech",
+        "fees": 6999,
+        "enrollmentDate": "2023-09-06"
+      },
+      {
+        "enrollmentNumber": "2023002",
+        "studentName": "Jane Doe",
+        "courseName": "UPSC",
+        "fees": 4999,
+        "enrollmentDate": "2023-09-05"
+      },
+      {
+        "enrollmentNumber": "2023003",
+        "studentName": "Moxly Smith",
+        "courseName": "B.Tech",
+        "fees": 5299,
+        "enrollmentDate": "2023-09-04"
+      }
+    ],
+
+
+
+    "StudentData": [
+      {
+        "registrationNumber": "R2023001",
+        "firstName": "Alice",
+        "lastName": "Doe",
+        "courseName": "MBBS",
+        "fees": 4899,
+        "registrationDate": "2023-09-08"
+      },
+      {
+        "registrationNumber": "R2023002",
+        "firstName": "Moxly",
+        "lastName": "Smith",
+        "courseName": "UPSC",
+        "fees": 6199,
+        "registrationDate": "2023-09-07"
+      },
+      {
+        "registrationNumber": "R2023001",
+        "firstName": "Alice",
+        "lastName": "Doe",
+        "courseName": "MBBS",
+        "fees": 4899,
+        "registrationDate": "2023-09-08"
+      },
+      {
+        "registrationNumber": "R2023002",
+        "firstName": "Moxly",
+        "lastName": "Smith",
+        "courseName": "UPSC",
+        "fees": 5599,
+        "registrationDate": "2023-09-07"
+      },
+      {
+        "registrationNumber": "R2023001",
+        "firstName": "Alice",
+        "lastName": "Doe",
+        "courseName": "MBBS",
+        "fees": 4599,
+        "registrationDate": "2023-09-08"
+      },
+      {
+        "registrationNumber": "R2023002",
+        "firstName": "Moxly",
+        "lastName": "Smith",
+        "courseName": "UPSC",
+        "fees": 6999,
+        "registrationDate": "2023-09-07"
+      },
+      {
+        "registrationNumber": "R2023001",
+        "firstName": "Alice",
+        "lastName": "Doe",
+        "courseName": "MBBS",
+        "fees": 5799,
+        "registrationDate": "2023-09-08"
+      },
+      {
+        "registrationNumber": "R2023002",
+        "firstName": "Moxly",
+        "lastName": "Smith",
+        "courseName": "B.Tech",
+        "fees": 7599,
+        "registrationDate": "2023-09-07"
+      },
+      {
+        "registrationNumber": "R2023001",
+        "firstName": "Alice",
+        "lastName": "Doe",
+        "courseName": "MBBS",
+        "fees": 4899,
+        "registrationDate": "2023-09-08"
+      },
+      {
+        "registrationNumber": "R2023002",
+        "firstName": "Moxly",
+        "lastName": "Smith",
+        "courseName": "UPSC",
+        "fees": 6899,
+        "registrationDate": "2023-09-07"
+      }
+    ]
+  }
+  
